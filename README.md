@@ -35,13 +35,13 @@ Lembre-se que a área de um triângulo é calculada através da seguinte fórmul
 
 Escreva uma função com o nome `splitSentence`, a qual receberá uma string e retornará uma array de strings separadas por cada espaço na string original.
 
-Exemplo: se a função receber a string `"go Trybe"`, o retorno deverá ser `['go', 'Trybe']`.
+Exemplo: se a função receber a string `"Drummond Advisors"`, o retorno deverá ser `['Drummond', 'Advisors']`.
 
 **O que será verificado:**
 
-- Retorne o valor ['go', 'Trybe'] se a função receber a string 'go Trybe'
+- Retorne o valor ['Drummond', 'Advisors'] se a função receber a string 'Drummond Advisors'
 
-- Retorne o valor ['vamo', 'que', 'vamo']. se a função receber a string 'vamo que vamo'
+- Retorne o valor ['Drummond', 'Advisors', 'Tech']. se a função receber a string 'Drummond Advisors Tech'
 
 - Retorne o valor ['foguete'] se a função receber a string 'foguete'
 
